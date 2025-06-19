@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me - shlok16naidu@gmail.com
 - 😄 Pronouns:he/him
-- ⚡ Fun fact: i touch grass and hit the gym
 
 <!---
 ShlokNaidu/ShlokNaidu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
